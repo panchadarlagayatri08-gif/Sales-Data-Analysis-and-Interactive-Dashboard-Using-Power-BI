@@ -1,0 +1,2 @@
+# Sales-Data-Analysis-and-Interactive-Dashboard-Using-Power-BI
+Developed interactive Power BI dashboards using a sales dataset to analyze city-wise commissions, incentives, and customer bank balances. Created DAX measures for average, count, highest, lowest, and total incentive values. Used line charts, pie charts, column charts, and slicers to enable dynamic filtering, comparison, and data-driven insights.
